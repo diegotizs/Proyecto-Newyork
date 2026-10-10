@@ -1,3 +1,1 @@
 # Proyecto-Newyork
-
-k
