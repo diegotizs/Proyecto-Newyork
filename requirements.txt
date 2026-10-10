@@ -1,0 +1,12 @@
+duckdb
+pandas
+pyarrow
+lightgbm
+xgboost
+scikit-learn
+matplotlib
+plotly
+streamlit
+pydeck
+holidays
+requests
